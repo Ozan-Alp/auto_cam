@@ -1,4 +1,8 @@
-How to run auto camera script.
+AUTO CAMERA VIEWER FOR UBUNTU
+This project creates a startup script that automatically opens the first camera in your system
+and shows the output frames in a window. You can close the window by 'q' key.
+
+To set the startup script in your system follow the following guide.
 
 1- GUI(Tested in Ubuntu 20.04.6 LTS)
 
@@ -29,4 +33,4 @@ If you prefer to use the command line instead of the GUI, you can add your scrip
 Save the file with a .desktop extension in the ~/.config/autostart/ directory.
 Ex:auto_cam.desktop
 
-You can close de Video window by pressing q.
+
