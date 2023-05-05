@@ -1,4 +1,5 @@
 AUTO CAMERA VIEWER FOR UBUNTU
+
 This project creates a startup script that automatically opens the first camera in your system
 and shows the output frames in a window. You can close the window by 'q' key.
 
@@ -31,6 +32,6 @@ If you prefer to use the command line instead of the GUI, you can add your scrip
 	Comment=Description of your script (optional)
 
 Save the file with a .desktop extension in the ~/.config/autostart/ directory.
-Ex:auto_cam.desktop
+Ex: auto_cam.desktop
 
 
